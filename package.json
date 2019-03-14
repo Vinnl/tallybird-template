@@ -1,0 +1,14 @@
+{
+  "name": "tallybird-template",
+  "version": "0.0.1",
+  "description": "An example Tallybird setup that can immediately be deployed to Heroku",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "repository": "git@github.com:Vinnl/tallybird-template.git",
+  "license": "MIT",
+  "dependencies": {
+    "tallybird": "^0.0.1-master-32c38e6f35d9bee5068d990b2bb5f7a3d9fd31cd"
+  }
+}

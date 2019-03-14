@@ -1,0 +1,14 @@
+{
+  "name": "Tallybird",
+  "description": "An example Tallybird setup that can immediately be deployed to Heroku",
+  "repository": "https://github.com/Vinnl/tallybird-template",
+  "keywords": ["tallybird","heroku"],
+  "addons": [
+    {
+      "plan": "heroku-postgresql",
+      "options": {
+        "version": "10"
+      }
+    }
+  ]
+}
